@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmoria_portfolio=self.webpackChunkmoria_portfolio||[]).push([[453],{731:function(e,t,l){l.r(t);var n=l(6540),r=l(2412);t.default=e=>n.createElement(r.A,null,n.createElement("div",{style:{textAlign:"center"}},n.createElement("h1",null,"404"),n.createElement("p",null,"Page not found.")))}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-6a868e959c635c3dff1c.js.map

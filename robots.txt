@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://moiradeval.com/sitemap-index.xml
